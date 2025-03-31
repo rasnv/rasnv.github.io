@@ -1,6 +1,6 @@
 # Site settings
-title: "Christian J. Tai Udovicic | Planetary Scientist"
-description: "Christian is a postdoc exploring the Moon at Northern Arizona University."
+title: "Rama Subramanian V. | Planetary Science Intern"
+description: "Rama is a research intern exploring impact cratering processes on the Moon at Physical Research Laboratory."
 
 # Build settings
 markdown: kramdown
@@ -10,18 +10,18 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Christian J. Tai Udovicic"
-resume_title:                   "Postdoctoral Scholar"
-resume_contact_email:           "cjtu@nau.edu"
-resume_contact_telephone:       "928-266-4451"
+resume_name:                    "Rama Subramanian V."
+resume_title:                   "Research Intern"
+resume_contact_email:           "ramacap18@gmail.com"
+resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info:     ""
 resume_header_intro: >-
-    <p>I use orbital data and code to understand how the Moon changes over time. 
-    I am passionate about open source science and social justice. While you're here, you can
-    download pdfs of my <a href="#publications" itemprop="url">papers</a>, 
-    check out my free coding textbook <a href="https://cjtu.github.io/spirl" itemprop="url">SPIRL</a>, 
-    or see my current <a href="#projects" itemprop="url">GitHub projects</a>.</p>
+    <p>I use numerical hydrocode models and remote sensing data mainly on impact cratering, which is arguably the most pervasive geologic process in the solar system. 
+    #I am passionate about open source science and social justice. #While you're here, you can
+    ##download pdfs of my <a href="#publications" itemprop="url">papers</a>, 
+    ##check out my free coding textbook <a href="https://cjtu.github.io/spirl" itemprop="url">SPIRL</a>, 
+    ##or see my current <a href="#projects" itemprop="url">GitHub projects</a>.</p>
 
 # Comment out unused sections
 # resume_section_associations:    true
@@ -39,13 +39,13 @@ resume_section_recognition:     true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/cjtu"
+  resume_github_url:            "https://github.com/rasnv"
   # resume_twitter_url:           "https://twitter.com/TaiUdovicic"
   # resume_dribbble_url:
   # resume_facebook_url:
-  resume_linkedin_url:          "https://www.linkedin.com/in/christian-tai-udovicic"
+  resume_linkedin_url:          "https://www.linkedin.com/in/vramasubramanian"
   # resume_instagram_url:
-  resume_website_url:           "https://cjtu.github.io/"
+  resume_website_url:           "https://rasnv.github.io//"
 resume_print_social_links:      true
 
 # Option to add a Goggle analytics tracking code
