@@ -1,0 +1,31 @@
+# Projects
+- project: MoonPIES
+  role: Lead developer
+  duration: 2021 &mdash; Present
+  url: "https://github.com/cjtu/moonpies"
+  description: Moon Polar Ice and Ejecta Stratigraphy model.
+
+- project: Roughness
+  role: Lead developer
+  duration: 2020 &mdash; Present
+  url: "https://github.com/NAU-PIXEL/roughness"
+  description: Predict illumination on rough planetary surfaces.
+
+- project: Scientific Programming In Real Life (SPIRL)
+  role: Author / Instructor
+  duration: 2019 &mdash; Present
+  url: "https://cjtu.github.io/spirl"
+  description: Practical Python, Git and Bash for scientists in a hurry.
+
+- project: Craterpy
+  role: Lead developer
+  duration: 2016 &mdash; Present
+  url: "https://github.com/cjtu/craterpy"
+  description: Impact crater data science in Python.
+
+- project: Plutopy
+  role: Open source advocate
+  duration: 2018
+  url: "https://github.com/cjtu/plutopy"
+  description: Learn Git and GitHub the hands-on way.
+
