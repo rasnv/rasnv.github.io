@@ -1,6 +1,12 @@
 # Skills
-- skill:
-  description:
+- skill: iSALE2D 
+  description: Numerical model called hydrocode, to study the formation of impact craters and impact processes
 
-- skill:
-  description:
+- skill: Python 
+  description: NumPy, SciPy, Astropy, GeoPandas, GDAL, Matplotlib, iSALEPlot
+
+- skill: Operating Systems 
+  description: Windows, Linux, CentOS
+
+- skill: Miscellaneous
+  description: Scientific illustration, GitHub, LATEX, Blogging, Blender
