@@ -163,7 +163,7 @@
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
-	{% if experience.url %}<a href="{{ experience.url }}" itemprop="url">{{ experience.abstract }}</a>{% else %}{{ experience.abstract }}{% endif %}</i> )</p>
+	{% if job.url %}<a href="{{ job.url }}" itemprop="url">{{ job.abstract }}</a>{% else %}{{ job.abstract }}{% endif %}</i> )</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
