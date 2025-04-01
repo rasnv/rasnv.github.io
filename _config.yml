@@ -24,7 +24,7 @@ resume_header_intro: >-
 resume_section_education:       true
 resume_section_experience:      true
 # resume_section_interests:       true
-# resume_section_links:           true
+resume_section_links:           true
 # resume_section_outreach:        true
 resume_section_presentations:   true
 # resume_section_projects:       true
