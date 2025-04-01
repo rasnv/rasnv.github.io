@@ -1,0 +1,57 @@
+# Site settings
+title: "Rama Subramanian V. | Planetary Science Intern"
+description: "Rama is a research intern exploring impact cratering processes on the Moon at Physical Research Laboratory."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Rama Subramanian V."
+resume_title:                   "Research Intern"
+resume_contact_email:           "ramacap18@gmail.com"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
+resume_header_contact_info:     ""
+resume_header_intro: >-
+    <p>I use numerical hydrocode models and remote sensing data mainly on impact cratering, which is arguably the most pervasive geologic process in the solar system. </p>
+
+# Comment out unused sections
+# resume_section_associations:    true
+resume_section_education:       true
+#resume_section_experience:      true
+# resume_section_interests:       true
+# resume_section_links:           true
+# resume_section_outreach:        true
+resume_section_presentations:   true
+# resume_section_projects:       true
+resume_section_publications:    true
+# resume_section_recognition:     true
+resume_section_skills:         true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/rasnv"
+  resume_twitter_url:           "https://x.com/ramas_bramanian"
+  # resume_dribbble_url:
+  # resume_facebook_url:
+  resume_linkedin_url:          "https://www.linkedin.com/in/vramasubramanian"
+  # resume_instagram_url:
+  resume_website_url:           "https://rasnv.github.io/"
+resume_print_social_links:      true
+
+# Option to add a Goggle analytics tracking code
+# Navigate to https://analytics.google.com, add a new property for your site and copy the tracking id here.
+# google_analytics:
+  # mytrackingcode: 
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
