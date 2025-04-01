@@ -17,7 +17,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info:     ""
 resume_header_intro: >-
-    <p>I use numerical hydrocode models and remote sensing data mainly on impact cratering, which is arguably the most pervasive geologic process in the solar system. </p>
+    <p>I use numerical hydrocode models and remote sensing data, primarily on impact cratering, which is arguably the most pervasive geologic process in the solar system. </p>
 
 # Comment out unused sections
 # resume_section_associations:    true
