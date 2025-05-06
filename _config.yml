@@ -17,7 +17,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info:     ""
 resume_header_intro: >-
-    <p>I use numerical hydrocode models and lunar remote sensing data, primarily focused on impact cratering, to study the geologic processes in the Moon south polar region. </p>
+    <p> I work on numerical hydrocode models to simulate impact cratering processes for lunar South Pole’s permanently shadowed region and Mars.  </p>
 
 # Comment out unused sections
 # resume_section_associations:    true
