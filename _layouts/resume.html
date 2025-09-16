@@ -106,8 +106,28 @@
       </section>
       <!-- end Publications -->
       {% endif %}
-      
 
+		
+      {% if site.resume_section_underprep %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2 id='publications'>Under Preparation</h2>
+        </header>
+
+        {% for pub in site.data.underprep %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="https://schema.org/ScholarlyArticle">
+	      <p class="resume-item-pub">
+        {{pub.authors}}{% if pub.year %} ({{pub.year}}),{% endif %} "{{pub.title}}", {% if pub.journal %}<i>{{pub.journal}}</i>{% endif %}{% if pub.volume %}, {{pub.volume}}{% endif %}{% if pub.pages %}, {{pub.pages}}{% endif %}. {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI: {{ pub.doi }}</a> {% endif %}{% if pub.pdf %}<span class="icon-link-item"><a href="{{ pub.pdf }}" class="icon-link no-underline" itemprop="sameAs"><i class="fa fa-download" style="padding-left: 20px"></i></a></span>{% endif %}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
+		
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
