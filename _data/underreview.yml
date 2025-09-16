@@ -6,30 +6,21 @@
 #  year: 2025
 #  pages: Under-preparation
 
-- title: 'Impacts into the Lunar Permanently Shadowed Regions'
-  authors: 'Vijayan S., <b>Rama Subramanian V.</b>, Rishav Sahoo, Nehavarthini, Bivas Das, Aditi R, Thahira U, Kimi KB, Harish, Ragav R, Jaya Krishna M, Bhalamurugan S, Anil Bhardwaj et al'
-#  journal: Icarus
+- title: 'The Role of Deformed Craters in Understanding Fault Geometries and Kinematics'
+  authors: 'K. B. Kimi, Rishav Sahoo, <b>Rama Subramanian V.</b>, Vijayan S.'
+  journal: Icarus
 #  volume: 128
   year: 2025
-  pages: Under-preparation
+#  pages: Under-preparation
 
 - title: 'Possible evidence for seismically triggered recent boulder falls on Cerberus Fossae, Mars'
   authors: 'S. Vijayan, Bivas Das, <b>Rama Subramanian</b>, Rishav Sahoo, Lucas A, Kimi K.B., Tuhi S, Harish, Thahira U, Aditi R, Sandeep A, Anil Bhardwaj.'
   journal: Icarus
 #  volume: 128
   year: 2025
-  pages: Submitted
+#  pages: Submitted
 #  doi: https://doi.org/10.1029/2022JE007567
 #  pdf: 'pdfs/Tai_Udovicic_et_al_2023_accepted.pdf'
-
-- title: 'Chandrayaan-3 landing site evolution by South Pole-Aitken basin and other impact craters'
-  authors: 'S. Vijayan, K.B. Kimi, Anil Chavan, R. Aditi, U. Thahira, <b>V. Rama Subramanian</b>, et al.'
-  journal: Icarus
-  volume: 425
-  year: 2024
-  pages: 11632
-  doi: 10.1016/j.icarus.2024.116329
-  #pdf: 'pdfs/McKeeby_et_al_2022.pdf'
 
 #- title: 'Modeling the production of submicroscopic iron in the lunar highlands'
 #  authors: 'Jordan, A. P., Shusterman, M. L., <b>Tai Udovicic, C. J.</b>'
