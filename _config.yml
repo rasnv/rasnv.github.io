@@ -17,7 +17,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info:     ""
 resume_header_intro: >-
-    <p> I am a physics graduate and have a strong passion for studying planetary formation and surface processes by combining numerical modeling with data analysis, utilizing both remote sensing and in-situ data. 
+    <p> I am a physics graduate and have a strong passion for studying planetary surface processes by combining numerical modeling with remote sensing data. 
     Currently, I am working on numerical simulations using shock physics hydrocode to study the formation of impact craters and processes in lunar south polar regions.</p>
 
 # Comment out unused sections
