@@ -1,12 +1,21 @@
 # Skills
-- skill: Numerical Simulation Tools 
+- skill: Coding
+  description: Python, C, C++
+  
+- skill: Simulation Tools 
   description: iSALE2D
 
-- skill: Programming 
-  description: Python, C 
+- skill: Software 
+  description: QGIS, Craterstats2, ArcGIS Pro
 
 - skill: Operating Systems 
-  description: Windows, Linux (Ubuntu, CentOS)
+  description: Ubuntu, CentOS
+
+- skill: Remote sensing
+  description: Optical & infrared.
+
+- skill: Mission Data
+  description: Chandrayaan - 2 Orbiter High Resolution Camera (OHRC), Korea Pathfinder Lunar Orbiter (KPLO) ShadowCam, Lunar Reconnaissance Orbiter (LRO) Diviner.
 
 - skill: Miscellaneous
   description: Scientific illustration, GitHub, LATEX, Blogging, Blender
