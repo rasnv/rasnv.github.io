@@ -1,10 +1,19 @@
 # Publications
-#- title: ', Impact-driven volatile distribution in Ultra-Cold permanently shadowed regions of the Lunar South Pole'
-#  authors: '<b>Rama Subramanian V.</b>, Vijayan S., Rishav Sahoo, Bivas Das, Nehavarthini, Thahira U, Aditi R, Kimi KB, Harish, et al'
-#  journal: Icarus
-#  volume: 128
-#  year: 2025
-#  pages: Under-preparation
+- title: 'Impacts into the Lunar Permanently Shadowed Regions'
+  authors: 'Vijayan S., <b>Rama Subramanian V.</b>, Rishav Sahoo, Bivas Das, Nehavarthini, Kimi KB, Thahira U, Aditi R,  Ragav R, Jaya Krishna M, Bhalamurugan S, Anil Bhardwaj.'
+  journal: npj Space Exploration
+  #volume: 128
+  year: 2026
+  #pages: 117053
+  doi: <b>Accepted for Publication</b>
+  
+- title: 'The Role of Deformed Craters in Understanding Fault Geometries and Kinematics'
+  authors: 'K. B. Kimi, Rishav Sahoo, <b>Rama Subramanian V.</b>, S. Vijayan.'
+  journal: Icarus
+  #volume: 128
+  year: 2026
+  pages: 117053
+  doi: 10.1016/j.icarus.2026.117053
 
 - title: 'Chandrayaan-3 landing site evolution by South Pole-Aitken basin and other impact craters'
   authors: 'S. Vijayan, K.B. Kimi, Anil Chavan, R. Aditi, U. Thahira, <b>V. Rama Subramanian</b>, et al.'
